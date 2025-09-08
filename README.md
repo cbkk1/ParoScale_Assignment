@@ -163,9 +163,8 @@ correct.
 * Upload of all source code for test and production, including any any artifacts
 (build scripts, etc.) to the provided git repository.
 
-* Your code builds from a Makefile on a recent Ubuntu image and produces a
-binary called ** niova-candidate-test-server ** in the ** ./test-driver-bin/ **
-directory.
+* Your code builds from a Makefile on a recent Ubuntu image and produces the
+binary **./test-driver-bin/niova-candidate-test-server**.
 
 * An accurate and representative git commit history.
 
