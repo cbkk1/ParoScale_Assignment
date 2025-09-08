@@ -1,4 +1,4 @@
-# package-tree: Niova Systems' Coding Challenge
+# Niova Systems' Coding Challenge
 
 At Niova Systems, we have found little to no correlation between doing well in
 brain-teasers and "whiteboard coding" and being a world-class software engineer.
@@ -86,12 +86,12 @@ It returns `FAIL\n` if the package isn't indexed.
 message sent by the client it should return `ERROR\n`.
 
 ### Technology choices and constraints
-Code at Niova Systems us typically Go, C, and some python.
-* C is used in our raft engine, "pumicedb", and our virtual block device driver.
+Code at Niova Systems is typically written in Go, C, and some python.
+* C is used in our Raft engine, "Pumicedb", and our virtual block device driver.
 * Go is used in our control plane and S3 interface layer.
-* Python is used in our test harness, "holon".
+* Python is used in our test harness, "Holon".
 
-The position you Are applying for should determine your choice of
+The position you are applying for should determine your choice of
 language though this is not a firm requirement.  If you intend to work on driver
 level software, then you are free to use another language which is suitable for
 systems programming (C++, Zig, Rust, etc.) but it's discouraged to use a
@@ -117,9 +117,11 @@ to the chat session is provided with the submitted result.
 Together with this `README.md` file, the repository should contain:
 
 * test-driver-bin/
+
 Contains pre-compiled binaries for a variety of platforms.
 
 * test-driver-src/
+
 The Go source code for the test driver and a Makefile for compilation.
 
 ### The test driver
@@ -162,6 +164,9 @@ correct.
 (build scripts, etc.) to the provided git repository.
 
 * An accurate and representative git commit history.
+
+* Permalink to the LLM session(s) if an LLM was used.  This may be added to the
+repository in a file called "llm.txt".
 
 * Your code is something you'd be comfortable putting in production and having
 your team maintaining
