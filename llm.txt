@@ -1,0 +1,15 @@
+LLM Usage
+=========
+
+An LLM (Claude) was used to assist with this submission, as permitted by the
+challenge. Full chat session permalink:
+
+    https://claude.ai/share/858d79da-6a9e-45ca-9d1f-929a822a53c5
+
+Other references consulted during development
+---------------------------------------------
+gfg for socket programming basics and few other websites found in google search
+
+
+NOTE:
+I used github copilod and a extension in vscode which will help in syntax so those are not mentioned here.

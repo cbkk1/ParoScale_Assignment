@@ -1,0 +1,166 @@
+cbkk@cbkk-Sword-16-HX-B14VFKG:~/IIT_TP/paroscale-candidate-test_MAIN/server$ git log
+commit 627880c8cb29dbf83a7eef194a9c42209ec66725 (HEAD -> master)
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:19:59 2026 +0530
+
+    Smallchange
+
+commit 9837c4271a3d7cf43a090bf18a10193cadba318f
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:09:58 2026 +0530
+
+    IndexHandler
+
+commit 1a4b3bafed8d868d7472aa0ae87ef3ce0f40d9cf
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:07:58 2026 +0530
+
+    ProtocolDoes
+
+commit ac1ff614bdf15c955bc1fe202d238078ef0ee7aa
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:56:32 2026 +0530
+
+    Splitter added
+
+commit 0d836bf97fb393fd920fb6e6a36999b1c4dc8cd0
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:49:47 2026 +0530
+
+    ParseLine added
+
+commit e3ebfd8ef2564145605a43f0346288ae7ad24749
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:21:30 2026 +0530
+
+    Commiting
+
+:
+commit 627880c8cb29dbf83a7eef194a9c42209ec66725 (HEAD -> master)
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:19:59 2026 +0530
+
+    Smallchange
+
+commit 9837c4271a3d7cf43a090bf18a10193cadba318f
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:09:58 2026 +0530
+
+    IndexHandler
+
+commit 1a4b3bafed8d868d7472aa0ae87ef3ce0f40d9cf
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:07:58 2026 +0530
+
+    ProtocolDoes
+
+commit ac1ff614bdf15c955bc1fe202d238078ef0ee7aa
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:56:32 2026 +0530
+
+    Splitter added
+
+commit 0d836bf97fb393fd920fb6e6a36999b1c4dc8cd0
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:49:47 2026 +0530
+
+    ParseLine added
+
+commit e3ebfd8ef2564145605a43f0346288ae7ad24749
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:21:30 2026 +0530
+
+    Commiting
+
+:
+commit 627880c8cb29dbf83a7eef194a9c42209ec66725 (HEAD -> master)
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:19:59 2026 +0530
+
+    Smallchange
+
+commit 9837c4271a3d7cf43a090bf18a10193cadba318f
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:09:58 2026 +0530
+
+    IndexHandler
+
+commit 1a4b3bafed8d868d7472aa0ae87ef3ce0f40d9cf
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:07:58 2026 +0530
+
+    ProtocolDoes
+
+commit ac1ff614bdf15c955bc1fe202d238078ef0ee7aa
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:56:32 2026 +0530
+
+    Splitter added
+
+commit 0d836bf97fb393fd920fb6e6a36999b1c4dc8cd0
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:49:47 2026 +0530
+
+    ParseLine added
+
+commit e3ebfd8ef2564145605a43f0346288ae7ad24749
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:21:30 2026 +0530
+
+    Commiting
+
+:
+commit 627880c8cb29dbf83a7eef194a9c42209ec66725 (HEAD -> master)
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:19:59 2026 +0530
+
+    Smallchange
+
+commit 9837c4271a3d7cf43a090bf18a10193cadba318f
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:09:58 2026 +0530
+
+    IndexHandler
+
+commit 1a4b3bafed8d868d7472aa0ae87ef3ce0f40d9cf
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sun Jun 7 00:07:58 2026 +0530
+
+    ProtocolDoes
+
+commit ac1ff614bdf15c955bc1fe202d238078ef0ee7aa
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:56:32 2026 +0530
+
+    Splitter added
+
+commit 0d836bf97fb393fd920fb6e6a36999b1c4dc8cd0
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:49:47 2026 +0530
+
+    ParseLine added
+
+commit e3ebfd8ef2564145605a43f0346288ae7ad24749
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:21:30 2026 +0530
+
+    Commiting
+
+commit aa73859adae13793a152f02466bf32b663fc1b1b
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 02:20:29 2026 +0530
+
+    Protocal HeaderAdded
+
+commit 8812b8d43fec63eb25ca0eb18c5f9a2b0decb2be
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Sat Jun 6 00:29:44 2026 +0530
+
+    DatastructureAdded
+
+commit 7079fa1b28b3e3fb45dce56084d94487f9302404 (Mainc++File)
+Author: cbkk1 <cs24s501@iittp.ac.in>
+Date:   Fri Jun 5 13:17:05 2026 +0530
+
+    Server Created
+
